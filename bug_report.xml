@@ -1,0 +1,22 @@
+Bag Report
+
+Details
+  
+  Type:                  Bug                   Status:            OPEN(View Workflow)
+  Priority:             Medium                 Resolution:            Unresolved
+  Affects Version:       None                  Fix Version:              None
+  Components:            None
+  Labels:                None
+  Sprint:                $22
+
+
+Description
+
+  Steps to reproduce:
+  1. Log in
+  2. Open chat dialog
+  3. Click on the `Settings` button => Add user
+  4. Add any user to a group conversation
+  5. Try to rename this group conversation
+  
+  Actual result: the button "Rename conversation" is disabled.
